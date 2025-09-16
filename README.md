@@ -4,8 +4,8 @@
 ## I'm a FullStack Developer always ready to rumble!
 
 - 🔭 I'm currently working on several web projects!
-- 🌱 I’m currently learning Flutter
-- 🥅 2024 Goals: Learn Flutter
+- 🌱 I’m currently learning Kotlin
+- 🥅 2025 Goals: Learn Kotlin
 - ⚡ Fun fact: I play trumpet and ukulele
 - 📫 How to reach me: brunoabano@solvit.pt
 
